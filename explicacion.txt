@@ -1,0 +1,14 @@
+libros_autores:
+
+Spring Boot DevTools
+Lombok
+Spring Web
+Thymeleaf
+JDBC API SQL
+PostgreSQL Drivel SQL
+
+packages:
+controllers
+  - SessionController
+services
+models
